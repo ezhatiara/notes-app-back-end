@@ -2,7 +2,7 @@
 
 ## 📌 Selamat Datang!
 
-Halo! Ini adalah proyek "Notes App" dari kelas "Belajar Dasar Pemrograman" di Dicoding. Proyek ini akan membantu kita memahami cara membuat aplikasi catatan sederhana.
+Halo! Ini adalah proyek "Notes App" dari kelas "Belajar Membuat Aplikasi Back-End untuk Pemula" di Dicoding. Proyek ini akan membantu kita memahami cara membuat aplikasi catatan sederhana.
 
 ## 🚀 Tentang Proyek
 
