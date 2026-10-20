@@ -1,4 +1,4 @@
-# 📚 Notes App
+# Notes App
 
 Ini adalah proyek "Notes App" dari kelas "Belajar Membuat Aplikasi Back-End untuk Pemula" di Dicoding. Proyek ini akan membantu kita memahami cara membuat aplikasi catatan sederhana.
 
